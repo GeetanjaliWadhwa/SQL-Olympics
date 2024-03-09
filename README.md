@@ -1,7 +1,7 @@
-# SQL-Olympics
+# SQL-Olympics🏅
 
 
-# DATASET: 
+# DATASET:📉
 
 The data contains 120 years of olympics history. There are 2 daatsets 'Athletes' and 'Athlete Events' as follows:
 
@@ -10,7 +10,7 @@ The data contains 120 years of olympics history. There are 2 daatsets 'Athletes'
 (athlete id refers to the id column in athlete table)
 
 
-# AIM: 
+# AIM:❓
 Solve the below questions about the olympics:
 
 1. which team has won the maximum gold medals over the years.
