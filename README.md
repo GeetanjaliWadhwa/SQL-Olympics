@@ -9,6 +9,7 @@ The data contains 120 years of olympics history. There are 2 daatsets 'Athletes'
 2. athlete_events : it has information about all the events happened over the year.
 (athlete id refers to the id column in athlete table)
 
+
 # AIM: 
 Solve the below questions about the olympics:
 
@@ -20,3 +21,8 @@ Solve the below questions about the olympics:
 6. find players who won gold medal in summer and winter olympics both.
 7. find players who won gold, silver and bronze medal in a single olympics. print player name along with year.
 8. find players who have won gold medals in consecutive 3 summer olympics in the same event . Consider only olympics 2000 onwards. Assume summer olympics happens every 4 year starting 2000. print player name
+
+
+# My Solution: 
+
+Attached a txt file with SQL queries for each mentioned questions.
